@@ -4,4 +4,4 @@ all: serve
 
 # Serve website locally
 serve:
-	npx http-server data/ -o version_data.json
+	npx http-server data/ -o index.html
