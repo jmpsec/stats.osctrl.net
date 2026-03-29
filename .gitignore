@@ -8,3 +8,7 @@
 # IDE metadata
 .vscode
 .idea
+
+# Cloudflare tools
+.wrangler
+version-data-proxy
